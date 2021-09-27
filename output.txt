@@ -1,0 +1,5 @@
+INSERT INTO tbl_users (UserGuid, Username, Password, SecretKey) VALUES ('2a8c6b4e-76c1-4c4c-b24b-01938e452aeb', '4B2A0D', '11EB84', 'DB9E81');
+INSERT INTO tbl_users (UserGuid, Username, Password, SecretKey) VALUES ('53a0242a-7fca-4067-8b91-6da5242f8487', 'BFAB8B', '366E85', 'F95433');
+INSERT INTO tbl_users (UserGuid, Username, Password, SecretKey) VALUES ('211c4f3d-77a7-4e19-a2bc-6be8511e5721', '9FBAEE', '696E6F', '764893');
+INSERT INTO tbl_users (UserGuid, Username, Password, SecretKey) VALUES ('5ea4ad2e-ec7c-465d-ada0-76852ca2f2be', 'B892B7', '370777', 'B92803');
+INSERT INTO tbl_users (UserGuid, Username, Password, SecretKey) VALUES ('885d0b18-fc79-4e2d-8177-6ca618aa1cde', '4E5D20', '98EA6C', '5136F6');

@@ -1,0 +1,5 @@
+INSERT INTO tbl_users (UserGuid, Username) VALUES ('204ca378-5223-429e-a025-8cb5c4105e9d', 'A635FE');
+INSERT INTO tbl_users (UserGuid, Username) VALUES ('a0ec709c-2926-49d2-8a87-f71da7a72176', '88CD4D');
+INSERT INTO tbl_users (UserGuid, Username) VALUES ('bc854b6a-720a-40e1-af48-4f8504e1a398', 'E9CFC3');
+INSERT INTO tbl_users (UserGuid, Username) VALUES ('e22614b5-383f-49a6-9ea3-eb942c1af48c', 'DBFB9E');
+INSERT INTO tbl_users (UserGuid, Username) VALUES ('1cd4925f-656c-49d4-8088-e1495a65a478', '317627');
